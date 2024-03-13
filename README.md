@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Estefania!</h1>
-<br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 I'm a Data Analyst. My technical skills include SQL and Power BI. I am constantly incorporating tools to increase my skills.
